@@ -1,0 +1,95 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    font-family: Lato,'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.container
+{
+    width: 1170px;
+    margin: 0 auto;
+}
+h1,h2,h3,h4,h5,h6{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+}
+#header
+{
+    text-align: center;
+    color: #fff;
+    background-color: #18BC9C;
+}
+#header h1
+{
+    text-transform: uppercase;
+    font-family: Lato,'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+#star-line
+{
+    border: none;
+    border-top: solid 10px;
+    
+    
+}
+#header span {
+    font-size: 20px;
+}
+
+#header .container
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#nav-container
+{
+    height: 100px;
+    background-color: #2C3E50;
+
+
+}
+#nav-inner
+{
+    
+    height: 100px;
+ 
+    font-family:Montserrat,'Helvetica Neue',Arial, Helvetica, sans-serif;
+    
+}
+#logo
+{
+    float: left;
+    font-size: 2em;
+    margin:30px 10px;
+}
+#nav-menu
+{
+    float: right;
+    margin:40px 10px;
+
+}
+#nav-inner a
+{
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#nav-menu li
+{
+    float:left;
+    list-style: none;
+    margin: 0 10px;
+
+}
+#nav-menu li a {
+    letter-spacing: 1px;
+}
+#nav-menu li a:hover {
+    color:#18BC9C;
+}
+.clear
+{
+    clear: both;
+}
