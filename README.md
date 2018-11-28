@@ -1,1 +1,0 @@
-# theemrekaraca.github.io
